@@ -1,5 +1,4 @@
 // C program to check the valididy of an email address
-//2115046
 
 #include <stdio.h>
 #include <stdbool.h>
